@@ -1,0 +1,18 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "post internet",
+	"icon": "https://micro.blog/permanganate/avatar.jpg",
+	"home_page_url": "https://permanganate.micro.blog/",
+	"feed_url": "https://permanganate.micro.blog/feed.json",
+	"items": [
+		
+			{
+				"id": "http://permanganate.micro.blog/2022/11/01/my-ballot-has.html",
+				
+				"content_html": "<p>My ballot has been accepted and counted</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "My ballot has been accepted and counted\n\n<img src=\"uploads/2022/98c3a2709c.jpg\" width=\"300\" height=\"169\" alt=\"I voted (OREGON)\">\n",
+				"date_published": "2022-11-01T20:05:02-07:00",
+				"url": "https://permanganate.micro.blog/2022/11/01/my-ballot-has.html"
+			}
+	]
+}
