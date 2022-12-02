@@ -7,12 +7,21 @@
 	"items": [
 		
 			{
+				"id": "http://permanganate.micro.blog/2022/12/02/lotro-goals-for.html",
+				"title": "LOTRO goals for December",
+				"content_html": "<ul>\n<li>finish Cardolan &amp; new epic book 3 on Captain</li>\n<li>blow through Swanfleet &amp; Cardolan epic on Lore-Master ASAP</li>\n<li>Luilloth quest chain on LM</li>\n<li>deeding there on both, concentrating on exploration</li>\n<li>then go back and clean up questing on LM</li>\n<li>SV T1-T3</li>\n</ul>\n",
+				"content_text": "* finish Cardolan & new epic book 3 on Captain\r\n* blow through Swanfleet & Cardolan epic on Lore-Master ASAP\r\n* Luilloth quest chain on LM\r\n* deeding there on both, concentrating on exploration\r\n* then go back and clean up questing on LM\r\n* SV T1-T3\n",
+				"date_published": "2022-12-02T11:24:02-08:00",
+				"url": "https://permanganate.micro.blog/2022/12/02/lotro-goals-for.html"
+			},
+			{
 				"id": "http://permanganate.micro.blog/2022/11/24/finished-reading-the.html",
 				
 				"content_html": "<p>Finished reading The Two Towers, and started Return of the King</p>\n",
 				"content_text": "Finished reading The Two Towers, and started Return of the King\n",
 				"date_published": "2022-11-24T22:34:56-08:00",
-				"url": "https://permanganate.micro.blog/2022/11/24/finished-reading-the.html"
+				"url": "https://permanganate.micro.blog/2022/11/24/finished-reading-the.html",
+				"tags": ["books"]
 			},
 			{
 				"id": "http://permanganate.micro.blog/2022/11/19/wreck-of-the.html",
