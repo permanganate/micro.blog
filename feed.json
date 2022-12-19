@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://permanganate.micro.blog/2022/12/18/finished-reading-the.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780007488346\">The Return of the King</a> by J. R. R. Tolkien 📚</p>\n",
+				"content_text": "Finished reading: [The Return of the King](https://micro.blog/books/9780007488346) by J. R. R. Tolkien 📚\n",
+				"date_published": "2022-12-18T23:31:26-08:00",
+				"url": "https://permanganate.micro.blog/2022/12/18/finished-reading-the.html"
+			},
+			{
 				"id": "http://permanganate.micro.blog/2022/12/05/freelancer-and-authority.html",
 				
 				"content_html": "<p>Freelancer and Authority squadrons for Steel Rift</p>\n<p>Finished these and the MDF city buildings and ruins over the weekend</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
@@ -44,7 +52,7 @@
 				"id": "http://permanganate.micro.blog/2022/11/01/my-ballot-has.html",
 				
 				"content_html": "<p>My ballot has been accepted and counted</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My ballot has been accepted and counted\n\n<img src=\"uploads/2022/98c3a2709c.jpg\" width=\"300\" height=\"169\" alt=\"I voted (OREGON)\">\n",
+				"content_text": "My ballot has been accepted and counted\n\n<img src=\"https://permanganate.micro.blog/uploads/2022/98c3a2709c.jpg\" width=\"300\" height=\"169\" alt=\"I voted (OREGON)\">\n",
 				"date_published": "2022-11-01T19:05:02-08:00",
 				"url": "https://permanganate.micro.blog/2022/11/01/my-ballot-has.html"
 			}
