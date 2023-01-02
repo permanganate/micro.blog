@@ -7,6 +7,14 @@
 	"items": [
 		
 			{
+				"id": "http://permanganate.micro.blog/2023/01/01/finished-reading-ducks.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781787330139\">Ducks</a> by Kate Beaton.</p>\n<p>I remember when the story of the ducks hit the news, but it took me a while to make the connection. As a fan of her work from the Hark! A Vagrant Days, this was really good, but sad.</p>\n<p>📚</p>\n",
+				"content_text": "Finished reading: [Ducks](https://micro.blog/books/9781787330139) by Kate Beaton.\r\n\r\nI remember when the story of the ducks hit the news, but it took me a while to make the connection. As a fan of her work from the Hark! A Vagrant Days, this was really good, but sad.\r\n\r\n📚\n",
+				"date_published": "2023-01-01T19:11:03-08:00",
+				"url": "https://permanganate.micro.blog/2023/01/01/finished-reading-ducks.html"
+			},
+			{
 				"id": "http://permanganate.micro.blog/2022/12/18/finished-reading-the.html",
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780007488346\">The Return of the King</a> by J. R. R. Tolkien 📚</p>\n",
@@ -44,7 +52,7 @@
 				"id": "http://permanganate.micro.blog/2022/11/19/wreck-of-the.html",
 				
 				"content_html": "<p>Wreck of the Peter Iredale&hellip; seems smaller than the last time I visited</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Wreck of the Peter Iredale... seems smaller than the last time I visited\n\n<img src=\"uploads/2022/80b86f88a4.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Wreck of the Peter Iredale... seems smaller than the last time I visited\n\n<img src=\"https://permanganate.micro.blog/uploads/2022/80b86f88a4.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-11-19T21:32:14-08:00",
 				"url": "https://permanganate.micro.blog/2022/11/19/wreck-of-the.html"
 			},
