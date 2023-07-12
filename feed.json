@@ -7,6 +7,22 @@
 	"items": [
 		
 			{
+				"id": "http://permanganate.micro.blog/2023/07/12/finished-reading-bourdain.html",
+				
+				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780062909121\">Bourdain</a> by Laurie Woolever 📚</p>\n<p>Interesting biography, consisting of a bunch of anecdotes organized in themes in roughly chronological order. I think I missed a few episodes of <em>Parts Unknown</em>, but reading this made me want go back and watch some.</p>\n",
+				"content_text": "Finished reading: [Bourdain](https://micro.blog/books/9780062909121) by Laurie Woolever 📚\r\n\r\nInteresting biography, consisting of a bunch of anecdotes organized in themes in roughly chronological order. I think I missed a few episodes of *Parts Unknown*, but reading this made me want go back and watch some. \n",
+				"date_published": "2023-07-12T09:57:00-07:00",
+				"url": "https://permanganate.micro.blog/2023/07/12/finished-reading-bourdain.html"
+			},
+			{
+				"id": "http://permanganate.micro.blog/2023/05/24/starting-to-convert.html",
+				
+				"content_html": "<p>Starting to convert one of the WideLoaders on the xtracycle to have a spot to hold a bicycle wheel in place, if/when we need to bail out on the way home from summer camp. During the process, snapped the plastic connector on the LongLoader. Put a replacement together in tinkercad, primitive but it works so far:[Printables] (<a href=\"https://www.printables.com/model/488721-xtracycle-longloader-connector\">https://www.printables.com/model/488721-xtracycle-longloader-connector</a>)</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Starting to convert one of the WideLoaders on the xtracycle to have a spot to hold a bicycle wheel in place, if/when we need to bail out on the way home from summer camp. During the process, snapped the plastic connector on the LongLoader. Put a replacement together in tinkercad, primitive but it works so far:[Printables] (https://www.printables.com/model/488721-xtracycle-longloader-connector)\n\n<img src=\"uploads/2023/4096f2d51f.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/866cdbfa54.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-05-24T11:53:45-07:00",
+				"url": "https://permanganate.micro.blog/2023/05/24/starting-to-convert.html"
+			},
+			{
 				"id": "http://permanganate.micro.blog/2023/05/23/recently-took-a.html",
 				
 				"content_html": "<p>Recently took a break from playing No Man&rsquo;s Sky on the Switch, and jumped back to playing on PC. I was watching some youtubers play extreme permadeath mode, but I opted for a less drastic version and just went on a speedrun to the center of the galaxy. 🕹️</p>\n<!-- raw HTML omitted -->\n",
@@ -60,7 +76,7 @@
 				"id": "http://permanganate.micro.blog/2023/02/10/visible-mending-projectanother.html",
 				
 				"content_html": "<p>Visible mending project&ndash;another blown elbow repaired</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Visible mending project--another blown elbow repaired\n\n<img src=\"https://cdn.uploads.micro.blog/88918/2023/5505d69c39.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Visible mending project--another blown elbow repaired\n\n<img src=\"uploads/2023/5505d69c39.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2023-02-10T17:53:43-07:00",
 				"url": "https://permanganate.micro.blog/2023/02/10/visible-mending-projectanother.html"
 			},
@@ -92,7 +108,7 @@
 				"id": "http://permanganate.micro.blog/2023/01/09/three-genestealer-cult.html",
 				
 				"content_html": "<p>Three Genestealer Cult Aberrants that were about 90% complete for the last six months, finished them up before the end of the year</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Three Genestealer Cult Aberrants that were about 90% complete for the last six months, finished them up before the end of the year\n\n<img src=\"https://cdn.uploads.micro.blog/88918/2023/a67f353691.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Three Genestealer Cult Aberrants that were about 90% complete for the last six months, finished them up before the end of the year\n\n<img src=\"uploads/2023/a67f353691.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2023-01-09T21:16:09-07:00",
 				"url": "https://permanganate.micro.blog/2023/01/09/three-genestealer-cult.html"
 			},
@@ -133,7 +149,7 @@
 				"id": "http://permanganate.micro.blog/2022/12/05/freelancer-and-authority.html",
 				
 				"content_html": "<p>Freelancer and Authority squadrons for Steel Rift</p>\n<p>Finished these and the MDF city buildings and ruins over the weekend</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Freelancer and Authority squadrons for Steel Rift\r\n\r\nFinished these and the MDF city buildings and ruins over the weekend\n\n<img src=\"https://cdn.uploads.micro.blog/88918/2022/dea4da5b0b.jpg\" width=\"600\" height=\"373\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/88918/2022/62ffa61d7c.jpg\" width=\"600\" height=\"354\" alt=\"\">\n",
+				"content_text": "Freelancer and Authority squadrons for Steel Rift\r\n\r\nFinished these and the MDF city buildings and ruins over the weekend\n\n<img src=\"uploads/2022/dea4da5b0b.jpg\" width=\"600\" height=\"373\" alt=\"\"><img src=\"uploads/2022/62ffa61d7c.jpg\" width=\"600\" height=\"354\" alt=\"\">\n",
 				"date_published": "2022-12-05T15:49:23-07:00",
 				"url": "https://permanganate.micro.blog/2022/12/05/freelancer-and-authority.html",
 				"tags": ["miniatures"]
@@ -159,7 +175,7 @@
 				"id": "http://permanganate.micro.blog/2022/11/19/wreck-of-the.html",
 				
 				"content_html": "<p>Wreck of the Peter Iredale&hellip; seems smaller than the last time I visited</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Wreck of the Peter Iredale... seems smaller than the last time I visited\n\n<img src=\"https://cdn.uploads.micro.blog/88918/2022/80b86f88a4.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"content_text": "Wreck of the Peter Iredale... seems smaller than the last time I visited\n\n<img src=\"uploads/2022/80b86f88a4.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
 				"date_published": "2022-11-19T22:32:14-07:00",
 				"url": "https://permanganate.micro.blog/2022/11/19/wreck-of-the.html"
 			},
@@ -167,7 +183,7 @@
 				"id": "http://permanganate.micro.blog/2022/11/01/my-ballot-has.html",
 				
 				"content_html": "<p>My ballot has been accepted and counted</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My ballot has been accepted and counted\n\n<img src=\"https://cdn.uploads.micro.blog/88918/2022/98c3a2709c.jpg\" width=\"300\" height=\"169\" alt=\"I voted (OREGON)\">\n",
+				"content_text": "My ballot has been accepted and counted\n\n<img src=\"uploads/2022/98c3a2709c.jpg\" width=\"300\" height=\"169\" alt=\"I voted (OREGON)\">\n",
 				"date_published": "2022-11-01T20:05:02-07:00",
 				"url": "https://permanganate.micro.blog/2022/11/01/my-ballot-has.html"
 			}
