@@ -7,11 +7,35 @@
 	"items": [
 		
 			{
+				"id": "http://permanganate.micro.blog/2024/03/22/gnucash-financequote-update.html",
+				"title": "Gnucash Finance::Quote update",
+				"content_html": "<p>Recent MacOS update broke the Perl/Finance::Quote/Gnucash axis, so GC couldn&rsquo;t download quotes. Took a while to figure out that the chip architecture also fits into the issue, since Perl was updating F::Q to use an Apple Silicon version instead of the x86 version that Gnucash (currently running in Rosetta mode). Found fix <a href=\"https://wiki.gnucash.org/wiki/Online_Quotes#Installing_Finance::Quote_on_macOS\">here</a>. Also required cleaning out Perl.</p>\n<p>Just in case this happens again</p>\n",
+				"content_text": "Recent MacOS update broke the Perl/Finance::Quote/Gnucash axis, so GC couldn't download quotes. Took a while to figure out that the chip architecture also fits into the issue, since Perl was updating F::Q to use an Apple Silicon version instead of the x86 version that Gnucash (currently running in Rosetta mode). Found fix [here](https://wiki.gnucash.org/wiki/Online_Quotes#Installing_Finance::Quote_on_macOS). Also required cleaning out Perl. \n\nJust in case this happens again \n",
+				"date_published": "2024-03-22T13:52:49-07:00",
+				"url": "https://permanganate.micro.blog/2024/03/22/gnucash-financequote-update.html"
+			},
+			{
+				"id": "http://permanganate.micro.blog/2024/03/09/lord-of-the.html",
+				
+				"content_html": "<p>Lord of the Rings Online monthly goals</p>\n<ul>\n<li>\n<p>finish getting minstrel and brawler to 150, good progress made last month.</p>\n</li>\n<li>\n<p>continue working tailor crafting via deeds on minstrel and brawler since LM has all deeds done</p>\n</li>\n<li>\n<p>continue LM weeklies in Umbar</p>\n</li>\n<li>\n<p>spring festival drops next week</p>\n</li>\n</ul>\n",
+				"content_text": "Lord of the Rings Online monthly goals\n\n* finish getting minstrel and brawler to 150, good progress made last month. \n\n* continue working tailor crafting via deeds on minstrel and brawler since LM has all deeds done \n\n* continue LM weeklies in Umbar\n\n* spring festival drops next week\n",
+				"date_published": "2024-03-09T21:28:41-07:00",
+				"url": "https://permanganate.micro.blog/2024/03/09/lord-of-the.html"
+			},
+			{
+				"id": "http://permanganate.micro.blog/2024/03/09/last-group-of.html",
+				
+				"content_html": "<p>Last group of chaos dudes for Blackstone Fortress done. I think there’s just a few other NPCs, but I don’t have any minis for them as yet.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
+				"content_text": "Last group of chaos dudes for Blackstone Fortress done. I think there’s just a few other NPCs, but I don’t have any minis for them as yet. \n\n<img src=\"uploads/2024/d7c195e38c.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/1df0bda990.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/d83acbf438.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-03-09T21:15:51-07:00",
+				"url": "https://permanganate.micro.blog/2024/03/09/last-group-of.html"
+			},
+			{
 				"id": "http://permanganate.micro.blog/2024/03/07/first-half-of.html",
 				
 				"content_html": "<p>First half of a flamer support squad for the HH Salamanders.  Breaking them into subunits might make it a little quicker than batch painting all ten at once.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "First half of a flamer support squad for the HH Salamanders.  Breaking them into subunits might make it a little quicker than batch painting all ten at once. \n\n<img src=\"uploads/2024/194f19afbf.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/7389059860.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2024-03-07T15:42:28-08:00",
+				"date_published": "2024-03-07T16:42:28-07:00",
 				"url": "https://permanganate.micro.blog/2024/03/07/first-half-of.html"
 			},
 			{
@@ -19,7 +43,7 @@
 				
 				"content_html": "<p>Finished another BlitzBowl team, the undead. I need to compare it with sevens at some point</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
 				"content_text": "Finished another BlitzBowl team, the undead. I need to compare it with sevens at some point \n\n<img src=\"uploads/2024/e4bbfd6f2e.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/2d35638098.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/0d5e288bac.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2024-02-06T23:22:11-08:00",
+				"date_published": "2024-02-07T00:22:11-07:00",
 				"url": "https://permanganate.micro.blog/2024/02/06/finished-another-blitzbowl.html"
 			},
 			{
@@ -27,7 +51,7 @@
 				"title": "Lord of the Rings Online monthly goals",
 				"content_html": "<p>LOTRO goals for February:</p>\n<ul>\n<li>\n<p>Finish up maxing crafting reputation tiers on minstrel &amp; Lore-Master</p>\n</li>\n<li>\n<p>Push minstrel to 150, maybe by going back and running through the epic that leads up to Umbar</p>\n</li>\n<li>\n<p>Get brawler to 145, to open up the King&rsquo;s Gondor &amp; Umbar tasks</p>\n</li>\n<li>\n<p>Gear up LM for the new instances</p>\n</li>\n</ul>\n<p>Not really in a huge hurry for any of this since we don&rsquo;t know when the new instances will actually drop</p>\n",
 				"content_text": "LOTRO goals for February:\r\n\r\n* Finish up maxing crafting reputation tiers on minstrel & Lore-Master\r\n\r\n* Push minstrel to 150, maybe by going back and running through the epic that leads up to Umbar\r\n\r\n* Get brawler to 145, to open up the King's Gondor & Umbar tasks\r\n\r\n* Gear up LM for the new instances\r\n\r\nNot really in a huge hurry for any of this since we don't know when the new instances will actually drop\n",
-				"date_published": "2024-02-02T14:34:24-08:00",
+				"date_published": "2024-02-02T15:34:24-07:00",
 				"url": "https://permanganate.micro.blog/2024/02/02/lord-of-the.html"
 			},
 			{
@@ -35,23 +59,23 @@
 				
 				"content_html": "<p>A huge part of this tree fell during the recent ice storm. I was sitting on the couch about ten feet away when in snapped.</p>\n<!-- raw HTML omitted -->\n",
 				"content_text": "A huge part of this tree fell during the recent ice storm. I was sitting on the couch about ten feet away when in snapped. \n\n<img src=\"uploads/2024/b9cb7cc04c.jpg\" width=\"360\" height=\"600\" alt=\"Tree with broken branches\">\n",
-				"date_published": "2024-01-28T23:31:13-08:00",
+				"date_published": "2024-01-29T00:31:13-07:00",
 				"url": "https://permanganate.micro.blog/2024/01/28/a-huge-part.html"
 			},
 			{
 				"id": "http://permanganate.micro.blog/2024/01/27/trying-to-finish.html",
 				
 				"content_html": "<p>Trying to finish up a few of the works in progress on my desk before I go on with other projects. This Sisters of Battle Seraphim  sat for I don’t even know how long about 90% done until this week.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Trying to finish up a few of the works in progress on my desk before I go on with other projects. This Sisters of Battle Seraphim  sat for I don’t even know how long about 90% done until this week. \n\n<img src=\"uploads/2024/0cb4ada837.jpg\" width=\"450\" height=\"600\" alt=\"Wargaming miniature\">\n",
-				"date_published": "2024-01-27T22:35:23-08:00",
+				"content_text": "Trying to finish up a few of the works in progress on my desk before I go on with other projects. This Sisters of Battle Seraphim  sat for I don’t even know how long about 90% done until this week. \n\n<img src=\"https://cdn.uploads.micro.blog/88918/2024/0cb4ada837.jpg\" width=\"450\" height=\"600\" alt=\"Wargaming miniature\">\n",
+				"date_published": "2024-01-27T23:35:23-07:00",
 				"url": "https://permanganate.micro.blog/2024/01/27/trying-to-finish.html"
 			},
 			{
 				"id": "http://permanganate.micro.blog/2024/01/23/second-legion-tactical.html",
 				
 				"content_html": "<p>Second Legion Tactical Squad for Horus Heresy Salamanders.  These sat on my workbenchh for months until I finally buckled down and finished the last little bits</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Second Legion Tactical Squad for Horus Heresy Salamanders.  These sat on my workbenchh for months until I finally buckled down and finished the last little bits\n\n<img src=\"uploads/2024/ddd0d49e4d.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/a0227e58a0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2024-01-23T19:29:58-08:00",
+				"content_text": "Second Legion Tactical Squad for Horus Heresy Salamanders.  These sat on my workbenchh for months until I finally buckled down and finished the last little bits\n\n<img src=\"https://cdn.uploads.micro.blog/88918/2024/ddd0d49e4d.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/88918/2024/a0227e58a0.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-01-23T20:29:58-07:00",
 				"url": "https://permanganate.micro.blog/2024/01/23/second-legion-tactical.html",
 				"tags": ["miniatures"]
 			},
@@ -59,32 +83,32 @@
 				"id": "http://permanganate.micro.blog/2024/01/22/calling-these-two.html",
 				
 				"content_html": "<p>Calling these two characters done for the Horus Heresy Salamanders. Chaplain and a Praetor in Cataphractii Terminator armor.</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Calling these two characters done for the Horus Heresy Salamanders. Chaplain and a Praetor in Cataphractii Terminator armor.  \n\n<img src=\"uploads/2024/fd1ab58370.jpg\" width=\"600\" height=\"450\" alt=\"Wargaming miniature\"><img src=\"uploads/2024/fb5b7a13b9.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2024-01-22T23:07:39-08:00",
+				"content_text": "Calling these two characters done for the Horus Heresy Salamanders. Chaplain and a Praetor in Cataphractii Terminator armor.  \n\n<img src=\"https://cdn.uploads.micro.blog/88918/2024/fd1ab58370.jpg\" width=\"600\" height=\"450\" alt=\"Wargaming miniature\"><img src=\"https://cdn.uploads.micro.blog/88918/2024/fb5b7a13b9.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2024-01-23T00:07:39-07:00",
 				"url": "https://permanganate.micro.blog/2024/01/22/calling-these-two.html"
 			},
 			{
 				"id": "http://permanganate.micro.blog/2024/01/19/dialogus-for-the.html",
 				
 				"content_html": "<p>Dialogus for the Sisters of Battle. Finishing up a couple of characters</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Dialogus for the Sisters of Battle. Finishing up a couple of characters \n\n<img src=\"uploads/2024/1201de6ad0.jpg\" width=\"600\" height=\"450\" alt=\"Warhammer Sisters of Battle wargaming miniature \">\n",
-				"date_published": "2024-01-19T22:40:41-08:00",
+				"content_text": "Dialogus for the Sisters of Battle. Finishing up a couple of characters \n\n<img src=\"https://cdn.uploads.micro.blog/88918/2024/1201de6ad0.jpg\" width=\"600\" height=\"450\" alt=\"Warhammer Sisters of Battle wargaming miniature \">\n",
+				"date_published": "2024-01-19T23:40:41-07:00",
 				"url": "https://permanganate.micro.blog/2024/01/19/dialogus-for-the.html"
 			},
 			{
 				"id": "http://permanganate.micro.blog/2024/01/19/sister-of-battle.html",
 				
 				"content_html": "<p>Sister of Battle Canoness. This is the one from the blister pack, the one from the army box was finished a while back</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Sister of Battle Canoness. This is the one from the blister pack, the one from the army box was finished a while back\n\n<img src=\"uploads/2024/31138386e8.jpg\" width=\"600\" height=\"450\" alt=\"Warhammer miniature Sisters of Battle Canoness\">\n",
-				"date_published": "2024-01-19T22:09:36-08:00",
+				"content_text": "Sister of Battle Canoness. This is the one from the blister pack, the one from the army box was finished a while back\n\n<img src=\"https://cdn.uploads.micro.blog/88918/2024/31138386e8.jpg\" width=\"600\" height=\"450\" alt=\"Warhammer miniature Sisters of Battle Canoness\">\n",
+				"date_published": "2024-01-19T23:09:36-07:00",
 				"url": "https://permanganate.micro.blog/2024/01/19/sister-of-battle.html"
 			},
 			{
 				"id": "http://permanganate.micro.blog/2024/01/19/zoat-for-one.html",
 				
 				"content_html": "<p>Zoat for one of the later Blackstone Fortress expansions. So, so close to finishing that whole thing up.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Zoat for one of the later Blackstone Fortress expansions. So, so close to finishing that whole thing up. \n\n<img src=\"uploads/2024/5d3c9e575c.jpg\" width=\"600\" height=\"450\" alt=\"Wargaming miniature\">\n",
-				"date_published": "2024-01-19T21:54:46-08:00",
+				"content_text": "Zoat for one of the later Blackstone Fortress expansions. So, so close to finishing that whole thing up. \n\n<img src=\"https://cdn.uploads.micro.blog/88918/2024/5d3c9e575c.jpg\" width=\"600\" height=\"450\" alt=\"Wargaming miniature\">\n",
+				"date_published": "2024-01-19T22:54:46-07:00",
 				"url": "https://permanganate.micro.blog/2024/01/19/zoat-for-one.html",
 				"tags": ["miniatures"]
 			},
@@ -92,48 +116,48 @@
 				"id": "http://permanganate.micro.blog/2024/01/10/quite-a-run.html",
 				
 				"content_html": "<p>Quite a run on this latest permadeath No Man’s Sky save on the Switch. Was going through the center of Hilbert Dimension. Found myself on a steep slope on an extreme radioactive planet… during a storm. Normal amount of Switch lag, so all I could do was watch things end 🕹️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Quite a run on this latest permadeath No Man’s Sky save on the Switch. Was going through the center of Hilbert Dimension. Found myself on a steep slope on an extreme radioactive planet… during a storm. Normal amount of Switch lag, so all I could do was watch things end 🕹️\n\n<img src=\"uploads/2024/d2828ed3ae.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
-				"date_published": "2024-01-10T10:45:13-08:00",
+				"content_text": "Quite a run on this latest permadeath No Man’s Sky save on the Switch. Was going through the center of Hilbert Dimension. Found myself on a steep slope on an extreme radioactive planet… during a storm. Normal amount of Switch lag, so all I could do was watch things end 🕹️\n\n<img src=\"https://cdn.uploads.micro.blog/88918/2024/d2828ed3ae.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2024-01-10T11:45:13-07:00",
 				"url": "https://permanganate.micro.blog/2024/01/10/quite-a-run.html"
 			},
 			{
 				"id": "http://permanganate.micro.blog/2023/12/31/blackstone-fortress-second.html",
 				
 				"content_html": "<p>Blackstone Fortress second unit of Traitor Guard</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Blackstone Fortress second unit of Traitor Guard\n\n<img src=\"uploads/2024/7d6948849b.jpg\" width=\"600\" height=\"450\" alt=\"Blackstone Fortress second unit of Traitor Guard\">\n",
-				"date_published": "2023-12-31T22:16:23-08:00",
+				"content_text": "Blackstone Fortress second unit of Traitor Guard\n\n<img src=\"https://cdn.uploads.micro.blog/88918/2024/7d6948849b.jpg\" width=\"600\" height=\"450\" alt=\"Blackstone Fortress second unit of Traitor Guard\">\n",
+				"date_published": "2023-12-31T23:16:23-07:00",
 				"url": "https://permanganate.micro.blog/2023/12/31/blackstone-fortress-second.html"
 			},
 			{
 				"id": "http://permanganate.micro.blog/2023/12/31/blackstone-fortress-ogryn.html",
 				
 				"content_html": "<p>Blackstone Fortress Ogryn brothers</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Blackstone Fortress Ogryn brothers\n\n<img src=\"uploads/2024/b59d3c44d5.jpg\" width=\"600\" height=\"450\" alt=\"Blackstone Fortress Ogryn brothers\">\n",
-				"date_published": "2023-12-31T22:14:26-08:00",
+				"content_text": "Blackstone Fortress Ogryn brothers\n\n<img src=\"https://cdn.uploads.micro.blog/88918/2024/b59d3c44d5.jpg\" width=\"600\" height=\"450\" alt=\"Blackstone Fortress Ogryn brothers\">\n",
+				"date_published": "2023-12-31T23:14:26-07:00",
 				"url": "https://permanganate.micro.blog/2023/12/31/blackstone-fortress-ogryn.html"
 			},
 			{
 				"id": "http://permanganate.micro.blog/2023/12/31/blackstone-fortress-ambull.html",
 				
 				"content_html": "<p>Blackstone Fortress Ambull model done</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Blackstone Fortress Ambull model done\n\n<img src=\"uploads/2024/04d598eb75.jpg\" width=\"600\" height=\"450\" alt=\"Blackstone Fortress Ambull model\">\n",
-				"date_published": "2023-12-31T22:13:14-08:00",
+				"content_text": "Blackstone Fortress Ambull model done\n\n<img src=\"https://cdn.uploads.micro.blog/88918/2024/04d598eb75.jpg\" width=\"600\" height=\"450\" alt=\"Blackstone Fortress Ambull model\">\n",
+				"date_published": "2023-12-31T23:13:14-07:00",
 				"url": "https://permanganate.micro.blog/2023/12/31/blackstone-fortress-ambull.html"
 			},
 			{
 				"id": "http://permanganate.micro.blog/2023/12/31/mushrooms-out-by.html",
 				
 				"content_html": "<p>Mushrooms out by the shop 🍄</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Mushrooms out by the shop 🍄\n\n<img src=\"uploads/2024/e849503d48.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2024/2bdee5540c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-12-31T21:23:12-08:00",
+				"content_text": "Mushrooms out by the shop 🍄\n\n<img src=\"https://cdn.uploads.micro.blog/88918/2024/e849503d48.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/88918/2024/2bdee5540c.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-12-31T22:23:12-07:00",
 				"url": "https://permanganate.micro.blog/2023/12/31/mushrooms-out-by.html"
 			},
 			{
 				"id": "http://permanganate.micro.blog/2023/12/09/metal-missionary-for.html",
 				
 				"content_html": "<p>Metal Missionary for the Sororitas army. I  originally had one of these in my first Sisters of Battle iteration around the 3rd edition Witch-hunters codex. Replaced this dude, but not the metal Exorcist-that thing was a beast</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Metal Missionary for the Sororitas army. I  originally had one of these in my first Sisters of Battle iteration around the 3rd edition Witch-hunters codex. Replaced this dude, but not the metal Exorcist-that thing was a beast\n\n<img src=\"uploads/2023/a5333795cd.jpg\" width=\"553\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-12-09T20:13:31-08:00",
+				"content_text": "Metal Missionary for the Sororitas army. I  originally had one of these in my first Sisters of Battle iteration around the 3rd edition Witch-hunters codex. Replaced this dude, but not the metal Exorcist-that thing was a beast\n\n<img src=\"https://cdn.uploads.micro.blog/88918/2023/a5333795cd.jpg\" width=\"553\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-12-09T21:13:31-07:00",
 				"url": "https://permanganate.micro.blog/2023/12/09/metal-missionary-for.html"
 			},
 			{
@@ -141,63 +165,63 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780061478789\">Howl’s Moving Castle</a> by Diana Wynne Jones 📚\nCatching up&hellip;. the further I got into it, the more it changed from the movie, which is fine. I liked it a lot, and it can exist alongside the movie quite easily.</p>\n",
 				"content_text": "Finished reading: [Howl’s Moving Castle](https://micro.blog/books/9780061478789) by Diana Wynne Jones 📚\nCatching up.... the further I got into it, the more it changed from the movie, which is fine. I liked it a lot, and it can exist alongside the movie quite easily.\n",
-				"date_published": "2023-11-26T21:52:45-08:00",
+				"date_published": "2023-11-26T22:52:45-07:00",
 				"url": "https://permanganate.micro.blog/2023/11/26/finished-reading-howls.html"
 			},
 			{
 				"id": "http://permanganate.micro.blog/2023/11/26/eldar-wraith-that.html",
 				
 				"content_html": "<p>Eldar Wraith that have been hanging around from a wraithbox I picked up, finished a while back.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Eldar Wraith that have been hanging around from a wraithbox I picked up, finished a while back.\n\n<img src=\"uploads/2023/7398cc84b6.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-11-26T21:48:48-08:00",
+				"content_text": "Eldar Wraith that have been hanging around from a wraithbox I picked up, finished a while back.\n\n<img src=\"https://cdn.uploads.micro.blog/88918/2023/7398cc84b6.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-11-26T22:48:48-07:00",
 				"url": "https://permanganate.micro.blog/2023/11/26/eldar-wraith-that.html"
 			},
 			{
 				"id": "http://permanganate.micro.blog/2023/11/26/minis-for-the.html",
 				
 				"content_html": "<p>Minis for the Demon Ship micro-game. Experimented with some of the new Army Painter Metallic Speedpaints, which I liked.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Minis for the Demon Ship micro-game. Experimented with some of the new Army Painter Metallic Speedpaints, which I liked.\n\n<img src=\"uploads/2023/3413bc74a2.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-11-26T21:41:27-08:00",
+				"content_text": "Minis for the Demon Ship micro-game. Experimented with some of the new Army Painter Metallic Speedpaints, which I liked.\n\n<img src=\"https://cdn.uploads.micro.blog/88918/2023/3413bc74a2.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-11-26T22:41:27-07:00",
 				"url": "https://permanganate.micro.blog/2023/11/26/minis-for-the.html"
 			},
 			{
 				"id": "http://permanganate.micro.blog/2023/11/26/213305.html",
 				
 				"content_html": "<p>unit of 3x Arco-flagellants for the Sisters</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "unit of 3x Arco-flagellants for the Sisters \n\n<img src=\"uploads/2023/31c36ede99.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-11-26T21:33:05-08:00",
+				"content_text": "unit of 3x Arco-flagellants for the Sisters \n\n<img src=\"https://cdn.uploads.micro.blog/88918/2023/31c36ede99.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-11-26T22:33:05-07:00",
 				"url": "https://permanganate.micro.blog/2023/11/26/213305.html"
 			},
 			{
 				"id": "http://permanganate.micro.blog/2023/11/26/unit-of-x.html",
 				
 				"content_html": "<p>Unit of 4x Repentia and the Superior for Sisters</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Unit of 4x Repentia and the Superior for Sisters\n\n<img src=\"uploads/2023/f26241141a.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-11-26T21:29:33-08:00",
+				"content_text": "Unit of 4x Repentia and the Superior for Sisters\n\n<img src=\"https://cdn.uploads.micro.blog/88918/2023/f26241141a.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-11-26T22:29:33-07:00",
 				"url": "https://permanganate.micro.blog/2023/11/26/unit-of-x.html"
 			},
 			{
 				"id": "http://permanganate.micro.blog/2023/11/26/infantry-unit-of.html",
 				
 				"content_html": "<p>Infantry unit of the HH Salamanders army. Head canon is they are post-Isstvan V, so supply is an issue, and they&rsquo;re going to be all kinds of shades of green.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Infantry unit of the HH Salamanders army. Head canon is they are post-Isstvan V, so supply is an issue, and they're going to be all kinds of shades of green. \n\n<img src=\"uploads/2023/7bc6095160.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-11-26T21:23:59-08:00",
+				"content_text": "Infantry unit of the HH Salamanders army. Head canon is they are post-Isstvan V, so supply is an issue, and they're going to be all kinds of shades of green. \n\n<img src=\"https://cdn.uploads.micro.blog/88918/2023/7bc6095160.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-11-26T22:23:59-07:00",
 				"url": "https://permanganate.micro.blog/2023/11/26/infantry-unit-of.html"
 			},
 			{
 				"id": "http://permanganate.micro.blog/2023/10/31/215209.html",
 				
 				"content_html": "<p><!-- raw HTML omitted --> 🎃</p>\n",
-				"content_text": "\n\n<img src=\"uploads/2023/b8322af22e.jpg\" width=\"600\" height=\"450\" alt=\"\"> 🎃\n",
-				"date_published": "2023-10-31T20:52:09-08:00",
+				"content_text": "\n\n<img src=\"https://cdn.uploads.micro.blog/88918/2023/b8322af22e.jpg\" width=\"600\" height=\"450\" alt=\"\"> 🎃\n",
+				"date_published": "2023-10-31T21:52:09-07:00",
 				"url": "https://permanganate.micro.blog/2023/10/31/215209.html"
 			},
 			{
 				"id": "http://permanganate.micro.blog/2023/09/15/slowly-whittling-away.html",
 				
 				"content_html": "<p>Slowly whittling away at the Black Stone Fortress group. This has has been at this stage for a while, calling it done—assassin, one of the solo characters like the harlequin from White Dwarf/BSF Annual.</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Slowly whittling away at the Black Stone Fortress group. This has has been at this stage for a while, calling it done—assassin, one of the solo characters like the harlequin from White Dwarf/BSF Annual. \n\n<img src=\"uploads/2023/image.jpg\" width=\"546\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-09-15T22:01:49-08:00",
+				"content_text": "Slowly whittling away at the Black Stone Fortress group. This has has been at this stage for a while, calling it done—assassin, one of the solo characters like the harlequin from White Dwarf/BSF Annual. \n\n<img src=\"https://cdn.uploads.micro.blog/88918/2023/image.jpg\" width=\"546\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-09-15T23:01:49-07:00",
 				"url": "https://permanganate.micro.blog/2023/09/15/slowly-whittling-away.html",
 				"tags": ["miniatures"]
 			},
@@ -206,7 +230,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781250228062\">The Terraformers</a> by Annalee Newitz 📚\nActually read this over the summer. I remember getting into it pretty quick, based on the great story and the long waitlist at the library behind me. Ecotopia updated, sort of? #library</p>\n",
 				"content_text": "Finished reading: [The Terraformers](https://micro.blog/books/9781250228062) by Annalee Newitz 📚\nActually read this over the summer. I remember getting into it pretty quick, based on the great story and the long waitlist at the library behind me. Ecotopia updated, sort of? #library\n",
-				"date_published": "2023-09-15T18:30:30-08:00",
+				"date_published": "2023-09-15T19:30:30-07:00",
 				"url": "https://permanganate.micro.blog/2023/09/15/finished-reading-the.html"
 			},
 			{
@@ -214,7 +238,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781784727819\">How to make the best coffee at home: The Sunday Times bestseller</a> by James Hoffmann 📚\nI thoroughly enjoy his channel, and found the book helpful. I’m not really interested in the complexity of home espresso, but it’s interesting to look down the rabbit hole</p>\n",
 				"content_text": "Finished reading: [How to make the best coffee at home: The Sunday Times bestseller](https://micro.blog/books/9781784727819) by James Hoffmann 📚\nI thoroughly enjoy his channel, and found the book helpful. I’m not really interested in the complexity of home espresso, but it’s interesting to look down the rabbit hole\n",
-				"date_published": "2023-09-15T18:01:13-08:00",
+				"date_published": "2023-09-15T19:01:13-07:00",
 				"url": "https://permanganate.micro.blog/2023/09/15/finished-reading-how.html"
 			},
 			{
@@ -222,7 +246,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780063042667\">The Kingdom of Prep</a> by Maggie Bullock 📚 \nAs an on-again-off-again fan of the brand, thought I&rsquo;d give it a try. Was presented in a way that someone without any fashion or business sense could understand. #library</p>\n",
 				"content_text": "Finished reading: [The Kingdom of Prep](https://micro.blog/books/9780063042667) by Maggie Bullock 📚 \r\nAs an on-again-off-again fan of the brand, thought I'd give it a try. Was presented in a way that someone without any fashion or business sense could understand. #library\n",
-				"date_published": "2023-08-31T13:34:24-08:00",
+				"date_published": "2023-08-31T14:34:24-07:00",
 				"url": "https://permanganate.micro.blog/2023/08/31/finished-reading-the.html"
 			},
 			{
@@ -230,7 +254,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780593582510\">Strong Female Character</a> by Fern Brady 📚\nI&rsquo;ve seen some of her stuff online over the last few years. Immediately put it on hold once I heard about it. Did not disappoint. This was quite interesting, how things can present differently. #library</p>\n",
 				"content_text": "Finished reading: [Strong Female Character](https://micro.blog/books/9780593582510) by Fern Brady 📚\r\nI've seen some of her stuff online over the last few years. Immediately put it on hold once I heard about it. Did not disappoint. This was quite interesting, how things can present differently. #library\n",
-				"date_published": "2023-08-31T13:32:01-08:00",
+				"date_published": "2023-08-31T14:32:01-07:00",
 				"url": "https://permanganate.micro.blog/2023/08/31/finished-reading-strong.html"
 			},
 			{
@@ -238,7 +262,7 @@
 				
 				"content_html": "<p>Fascinating book. Part art, part history of the early years of Games Workshop. Covers from the early D&amp;D days through Warhammer, up to when the founders sold the company</p>\n<p>Finished reading: <a href=\"https://micro.blog/books/9781800180536\">Dice Men</a> by Ian Livingstone 📚</p>\n",
 				"content_text": "Fascinating book. Part art, part history of the early years of Games Workshop. Covers from the early D&D days through Warhammer, up to when the founders sold the company\r\n\r\nFinished reading: [Dice Men](https://micro.blog/books/9781800180536) by Ian Livingstone 📚\n",
-				"date_published": "2023-08-29T13:21:35-08:00",
+				"date_published": "2023-08-29T14:21:35-07:00",
 				"url": "https://permanganate.micro.blog/2023/08/29/fascinating-book-part.html"
 			},
 			{
@@ -246,7 +270,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781501173257\">The Gentle Art of Swedish Death Cleaning</a> by Margareta Magnusson 📚\nI checked this out of the library before, when it first released. Closer reading this time&hellip; need to work on the basement and especially the shop. Lots of stuff make it difficult to tell trash from treasure #library</p>\n",
 				"content_text": "Finished reading: [The Gentle Art of Swedish Death Cleaning](https://micro.blog/books/9781501173257) by Margareta Magnusson 📚\r\nI checked this out of the library before, when it first released. Closer reading this time... need to work on the basement and especially the shop. Lots of stuff make it difficult to tell trash from treasure #library\r\n",
-				"date_published": "2023-08-08T13:40:08-08:00",
+				"date_published": "2023-08-08T14:40:08-07:00",
 				"url": "https://permanganate.micro.blog/2023/08/08/finished-reading-the.html"
 			},
 			{
@@ -254,39 +278,39 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780062909121\">Bourdain</a> by Laurie Woolever 📚</p>\n<p>Interesting biography, consisting of a bunch of anecdotes organized in themes in roughly chronological order. I think I missed a few episodes of <em>Parts Unknown</em>, but reading this made me want go back and watch some.</p>\n",
 				"content_text": "Finished reading: [Bourdain](https://micro.blog/books/9780062909121) by Laurie Woolever 📚\r\n\r\nInteresting biography, consisting of a bunch of anecdotes organized in themes in roughly chronological order. I think I missed a few episodes of *Parts Unknown*, but reading this made me want go back and watch some. \n",
-				"date_published": "2023-07-12T08:57:00-08:00",
+				"date_published": "2023-07-12T09:57:00-07:00",
 				"url": "https://permanganate.micro.blog/2023/07/12/finished-reading-bourdain.html"
 			},
 			{
 				"id": "http://permanganate.micro.blog/2023/05/24/starting-to-convert.html",
 				
 				"content_html": "<p>Starting to convert one of the WideLoaders on the xtracycle to have a spot to hold a bicycle wheel in place, if/when we need to bail out on the way home from summer camp. During the process, snapped the plastic connector on the LongLoader. Put a replacement together in tinkercad, primitive but it works so far:[Printables] (<a href=\"https://www.printables.com/model/488721-xtracycle-longloader-connector\">https://www.printables.com/model/488721-xtracycle-longloader-connector</a>)</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Starting to convert one of the WideLoaders on the xtracycle to have a spot to hold a bicycle wheel in place, if/when we need to bail out on the way home from summer camp. During the process, snapped the plastic connector on the LongLoader. Put a replacement together in tinkercad, primitive but it works so far:[Printables] (https://www.printables.com/model/488721-xtracycle-longloader-connector)\n\n<img src=\"uploads/2023/4096f2d51f.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"uploads/2023/866cdbfa54.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-05-24T10:53:45-08:00",
+				"content_text": "Starting to convert one of the WideLoaders on the xtracycle to have a spot to hold a bicycle wheel in place, if/when we need to bail out on the way home from summer camp. During the process, snapped the plastic connector on the LongLoader. Put a replacement together in tinkercad, primitive but it works so far:[Printables] (https://www.printables.com/model/488721-xtracycle-longloader-connector)\n\n<img src=\"https://cdn.uploads.micro.blog/88918/2023/4096f2d51f.jpg\" width=\"450\" height=\"600\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/88918/2023/866cdbfa54.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-05-24T11:53:45-07:00",
 				"url": "https://permanganate.micro.blog/2023/05/24/starting-to-convert.html"
 			},
 			{
 				"id": "http://permanganate.micro.blog/2023/05/23/recently-took-a.html",
 				
 				"content_html": "<p>Recently took a break from playing No Man&rsquo;s Sky on the Switch, and jumped back to playing on PC. I was watching some youtubers play extreme permadeath mode, but I opted for a less drastic version and just went on a speedrun to the center of the galaxy. 🕹️</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Recently took a break from playing No Man's Sky on the Switch, and jumped back to playing on PC. I was watching some youtubers play extreme permadeath mode, but I opted for a less drastic version and just went on a speedrun to the center of the galaxy. 🕹️\n\n<img src=\"uploads/2023/12903fa6a4.jpg\" width=\"465\" height=\"227\" alt=\"\">\n",
-				"date_published": "2023-05-23T09:53:27-08:00",
+				"content_text": "Recently took a break from playing No Man's Sky on the Switch, and jumped back to playing on PC. I was watching some youtubers play extreme permadeath mode, but I opted for a less drastic version and just went on a speedrun to the center of the galaxy. 🕹️\n\n<img src=\"https://cdn.uploads.micro.blog/88918/2023/12903fa6a4.jpg\" width=\"465\" height=\"227\" alt=\"\">\n",
+				"date_published": "2023-05-23T10:53:27-07:00",
 				"url": "https://permanganate.micro.blog/2023/05/23/recently-took-a.html"
 			},
 			{
 				"id": "http://permanganate.micro.blog/2023/03/27/picked-up-no.html",
 				
 				"content_html": "<p>PIcked up No Man&rsquo;s Sky for the Switch a while back. This was my first expedition, never tried one on the PC. Mostly fun, but the infested planet with the titan worms and biological horrors was frustrating&hellip; I had a hell of a time picking up the larval cores</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "PIcked up No Man's Sky for the Switch a while back. This was my first expedition, never tried one on the PC. Mostly fun, but the infested planet with the titan worms and biological horrors was frustrating... I had a hell of a time picking up the larval cores\n\n<img src=\"uploads/2023/873cd22c57.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
-				"date_published": "2023-03-27T21:48:59-08:00",
+				"content_text": "PIcked up No Man's Sky for the Switch a while back. This was my first expedition, never tried one on the PC. Mostly fun, but the infested planet with the titan worms and biological horrors was frustrating... I had a hell of a time picking up the larval cores\n\n<img src=\"https://cdn.uploads.micro.blog/88918/2023/873cd22c57.jpg\" width=\"600\" height=\"337\" alt=\"\">\n",
+				"date_published": "2023-03-27T22:48:59-07:00",
 				"url": "https://permanganate.micro.blog/2023/03/27/picked-up-no.html"
 			},
 			{
 				"id": "http://permanganate.micro.blog/2023/03/22/trio-of-characters.html",
 				
 				"content_html": "<p>Trio of characters for Blackstone Fortress</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Trio of characters for Blackstone Fortress\n\n<img src=\"uploads/2023/ea80611dff.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/47acf691f0.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"uploads/2023/580f6eea3f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-03-22T09:23:22-08:00",
+				"content_text": "Trio of characters for Blackstone Fortress\n\n<img src=\"https://cdn.uploads.micro.blog/88918/2023/ea80611dff.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/88918/2023/47acf691f0.jpg\" width=\"600\" height=\"450\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/88918/2023/580f6eea3f.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-03-22T10:23:22-07:00",
 				"url": "https://permanganate.micro.blog/2023/03/22/trio-of-characters.html"
 			},
 			{
@@ -294,7 +318,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780857839268\">One Tin Bakes</a> by Edd Kimber 📚\nFinally going to return this, but tried the tahini bar cookies a while back, pretty good and subtle, not in your face like peanut butter would have been. Worth looking into acquiring a copy. /#library</p>\n",
 				"content_text": "Finished reading: [One Tin Bakes](https://micro.blog/books/9780857839268) by Edd Kimber 📚\r\nFinally going to return this, but tried the tahini bar cookies a while back, pretty good and subtle, not in your face like peanut butter would have been. Worth looking into acquiring a copy. /#library\n",
-				"date_published": "2023-03-21T13:54:56-08:00",
+				"date_published": "2023-03-21T14:54:56-07:00",
 				"url": "https://permanganate.micro.blog/2023/03/21/finished-reading-one.html",
 				"tags": ["books"]
 			},
@@ -303,7 +327,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780525510840\">It&rsquo;s Garry Shandling&rsquo;s Book</a> by Judd Apatow 📚\nInspired me to track down episodes somewhere. Always interesting to peek behind the curtain into how things were, since I was young and/or uninterested enough back then.\n#library</p>\n",
 				"content_text": "Finished reading: [It's Garry Shandling's Book](https://micro.blog/books/9780525510840) by Judd Apatow 📚\nInspired me to track down episodes somewhere. Always interesting to peek behind the curtain into how things were, since I was young and/or uninterested enough back then. \n\\#library\n",
-				"date_published": "2023-03-21T13:50:32-08:00",
+				"date_published": "2023-03-21T14:50:32-07:00",
 				"url": "https://permanganate.micro.blog/2023/03/21/finished-reading-its.html",
 				"tags": ["books"]
 			},
@@ -312,15 +336,15 @@
 				
 				"content_html": "<p>little late, but LOTRO updates for March:</p>\n<ul>\n<li>\n<p>continue delvings to work on the deeds</p>\n</li>\n<li>\n<p>HH T3, SVT2/T3 (need necklace still)</p>\n</li>\n<li>\n<p>Spring Festival dailies, slow burn because of the bugged final deed</p>\n</li>\n<li>\n<p>any final cleanup for upcoming U35? I imagine it drops at the end of Spring Fest</p>\n</li>\n</ul>\n",
 				"content_text": "little late, but LOTRO updates for March:\n\n* continue delvings to work on the deeds\n\n* HH T3, SVT2/T3 (need necklace still)\n\n* Spring Festival dailies, slow burn because of the bugged final deed\n\n* any final cleanup for upcoming U35? I imagine it drops at the end of Spring Fest\n\n",
-				"date_published": "2023-03-14T16:40:44-08:00",
+				"date_published": "2023-03-14T17:40:44-07:00",
 				"url": "https://permanganate.micro.blog/2023/03/14/little-late-but.html"
 			},
 			{
 				"id": "http://permanganate.micro.blog/2023/02/10/visible-mending-projectanother.html",
 				
 				"content_html": "<p>Visible mending project&ndash;another blown elbow repaired</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Visible mending project--another blown elbow repaired\n\n<img src=\"uploads/2023/5505d69c39.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
-				"date_published": "2023-02-10T16:53:43-08:00",
+				"content_text": "Visible mending project--another blown elbow repaired\n\n<img src=\"https://cdn.uploads.micro.blog/88918/2023/5505d69c39.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2023-02-10T17:53:43-07:00",
 				"url": "https://permanganate.micro.blog/2023/02/10/visible-mending-projectanother.html"
 			},
 			{
@@ -328,7 +352,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780523485065\">The Technicolor Time Machine</a> by Harry Harrison 📚\nGonzo time travel sci-fi from the 60&rsquo;s, Vikings in Vinland&hellip; so good at being so bad.</p>\n",
 				"content_text": "Finished reading: [The Technicolor Time Machine](https://micro.blog/books/9780523485065) by Harry Harrison 📚\r\nGonzo time travel sci-fi from the 60's, Vikings in Vinland... so good at being so bad.\n",
-				"date_published": "2023-02-02T11:47:25-08:00",
+				"date_published": "2023-02-02T12:47:25-07:00",
 				"url": "https://permanganate.micro.blog/2023/02/02/finished-reading-the.html"
 			},
 			{
@@ -336,7 +360,7 @@
 				
 				"content_html": "<p>January LOTRO progress- On the captain alt, worked through Evendim, got the Angmar Fem armor set, and got set up in the Angle. LM: worked on delvings, finished up a few of the associated deeds, almost have the writs for the gold cloak upgrade, but no necklace drop in SV yet.</p>\n",
 				"content_text": "January LOTRO progress- On the captain alt, worked through Evendim, got the Angmar Fem armor set, and got set up in the Angle. LM: worked on delvings, finished up a few of the associated deeds, almost have the writs for the gold cloak upgrade, but no necklace drop in SV yet. \n",
-				"date_published": "2023-02-02T11:33:50-08:00",
+				"date_published": "2023-02-02T12:33:50-07:00",
 				"url": "https://permanganate.micro.blog/2023/02/02/january-lotro-progress.html"
 			},
 			{
@@ -344,15 +368,15 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780262542951\">Game Wizards: The Epic Battle for Dungeons &amp; Dragons (Game Histories)</a> by Jon Peterson 📚\nThere are no heroes here, and definitely no business people either. Amazing that D&amp;D even made it out of the 70s or early 80s</p>\n",
 				"content_text": "Finished reading: [Game Wizards: The Epic Battle for Dungeons & Dragons (Game Histories)](https://micro.blog/books/9780262542951) by Jon Peterson 📚\nThere are no heroes here, and definitely no business people either. Amazing that D&D even made it out of the 70s or early 80s\n",
-				"date_published": "2023-01-19T22:56:03-08:00",
+				"date_published": "2023-01-19T23:56:03-07:00",
 				"url": "https://permanganate.micro.blog/2023/01/19/finished-reading-game.html"
 			},
 			{
 				"id": "http://permanganate.micro.blog/2023/01/09/three-genestealer-cult.html",
 				
 				"content_html": "<p>Three Genestealer Cult Aberrants that were about 90% complete for the last six months, finished them up before the end of the year</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Three Genestealer Cult Aberrants that were about 90% complete for the last six months, finished them up before the end of the year\n\n<img src=\"uploads/2023/a67f353691.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2023-01-09T20:16:09-08:00",
+				"content_text": "Three Genestealer Cult Aberrants that were about 90% complete for the last six months, finished them up before the end of the year\n\n<img src=\"https://cdn.uploads.micro.blog/88918/2023/a67f353691.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2023-01-09T21:16:09-07:00",
 				"url": "https://permanganate.micro.blog/2023/01/09/three-genestealer-cult.html"
 			},
 			{
@@ -360,7 +384,7 @@
 				
 				"content_html": "<p>LOTRO goals for January-</p>\n<ul>\n<li>\n<p>still need SV T1 and T3 for deed now that T2 is getting on farm mode</p>\n</li>\n<li>\n<p>necklace &amp; essence, still need</p>\n</li>\n<li>\n<p>Delving missions for writs, to upgrade cloak to gold</p>\n</li>\n</ul>\n",
 				"content_text": "LOTRO goals for January-\r\n\r\n* still need SV T1 and T3 for deed now that T2 is getting on farm mode\r\n\r\n* necklace & essence, still need\r\n\r\n* Delving missions for writs, to upgrade cloak to gold\n",
-				"date_published": "2023-01-01T20:38:27-08:00",
+				"date_published": "2023-01-01T21:38:27-07:00",
 				"url": "https://permanganate.micro.blog/2023/01/01/lotro-goals-for.html"
 			},
 			{
@@ -368,7 +392,7 @@
 				
 				"content_html": "<p>LOTRO check-in: was able to tackle most of the items from December, but do find myself dropping alts and concentrating more on just the Lore-Master as things go. There&rsquo;s just not enough time to maintain the dailies and gear grind.</p>\n<ul>\n<li></li>\n</ul>\n",
 				"content_text": "LOTRO check-in: was able to tackle most of the items from December, but do find myself dropping alts and concentrating more on just the Lore-Master as things go. There's just not enough time to maintain the dailies and gear grind. \r\n\r\n* \n",
-				"date_published": "2023-01-01T19:29:46-08:00",
+				"date_published": "2023-01-01T20:29:46-07:00",
 				"url": "https://permanganate.micro.blog/2023/01/01/lotro-checkin-was.html"
 			},
 			{
@@ -376,7 +400,7 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9781787330139\">Ducks</a> by Kate Beaton.</p>\n<p>I remember when the story of the ducks hit the news, but it took me a while to make the connection. As a fan of her work from the Hark! A Vagrant Days, this was really good, but sad.</p>\n<p>📚</p>\n",
 				"content_text": "Finished reading: [Ducks](https://micro.blog/books/9781787330139) by Kate Beaton.\n\nI remember when the story of the ducks hit the news, but it took me a while to make the connection. As a fan of her work from the Hark! A Vagrant Days, this was really good, but sad.\n\n📚\n",
-				"date_published": "2022-12-22T19:11:00-08:00",
+				"date_published": "2022-12-22T20:11:00-07:00",
 				"url": "https://permanganate.micro.blog/2022/12/22/finished-reading-ducks.html",
 				"tags": ["books"]
 			},
@@ -385,15 +409,15 @@
 				
 				"content_html": "<p>Finished reading: <a href=\"https://micro.blog/books/9780007488346\">The Return of the King</a> by J. R. R. Tolkien 📚</p>\n",
 				"content_text": "Finished reading: [The Return of the King](https://micro.blog/books/9780007488346) by J. R. R. Tolkien 📚\n",
-				"date_published": "2022-12-18T23:31:26-08:00",
+				"date_published": "2022-12-19T00:31:26-07:00",
 				"url": "https://permanganate.micro.blog/2022/12/18/finished-reading-the.html"
 			},
 			{
 				"id": "http://permanganate.micro.blog/2022/12/05/freelancer-and-authority.html",
 				
 				"content_html": "<p>Freelancer and Authority squadrons for Steel Rift</p>\n<p>Finished these and the MDF city buildings and ruins over the weekend</p>\n<p><!-- raw HTML omitted --><!-- raw HTML omitted --></p>\n",
-				"content_text": "Freelancer and Authority squadrons for Steel Rift\r\n\r\nFinished these and the MDF city buildings and ruins over the weekend\n\n<img src=\"uploads/2022/dea4da5b0b.jpg\" width=\"600\" height=\"373\" alt=\"\"><img src=\"uploads/2022/62ffa61d7c.jpg\" width=\"600\" height=\"354\" alt=\"\">\n",
-				"date_published": "2022-12-05T14:49:23-08:00",
+				"content_text": "Freelancer and Authority squadrons for Steel Rift\r\n\r\nFinished these and the MDF city buildings and ruins over the weekend\n\n<img src=\"https://cdn.uploads.micro.blog/88918/2022/dea4da5b0b.jpg\" width=\"600\" height=\"373\" alt=\"\"><img src=\"https://cdn.uploads.micro.blog/88918/2022/62ffa61d7c.jpg\" width=\"600\" height=\"354\" alt=\"\">\n",
+				"date_published": "2022-12-05T15:49:23-07:00",
 				"url": "https://permanganate.micro.blog/2022/12/05/freelancer-and-authority.html",
 				"tags": ["miniatures"]
 			},
@@ -402,7 +426,7 @@
 				"title": "🕹️LOTRO goals for December",
 				"content_html": "<ul>\n<li>finish Cardolan &amp; new epic book 3 on Captain</li>\n<li>blow through Swanfleet &amp; Cardolan epic on Lore-Master ASAP</li>\n<li>Luilloth quest chain on LM</li>\n<li>deeding there on both, concentrating on exploration</li>\n<li>then go back and clean up questing on LM</li>\n<li>SV T1-T3</li>\n</ul>\n",
 				"content_text": "* finish Cardolan & new epic book 3 on Captain\n* blow through Swanfleet & Cardolan epic on Lore-Master ASAP\n* Luilloth quest chain on LM\n* deeding there on both, concentrating on exploration\n* then go back and clean up questing on LM\n* SV T1-T3\n",
-				"date_published": "2022-12-02T11:24:02-08:00",
+				"date_published": "2022-12-02T12:24:02-07:00",
 				"url": "https://permanganate.micro.blog/2022/12/02/lotro-goals-for.html"
 			},
 			{
@@ -410,7 +434,7 @@
 				
 				"content_html": "<p>Finished reading The Two Towers, and started Return of the King</p>\n",
 				"content_text": "Finished reading The Two Towers, and started Return of the King\n",
-				"date_published": "2022-11-24T22:34:56-08:00",
+				"date_published": "2022-11-24T23:34:56-07:00",
 				"url": "https://permanganate.micro.blog/2022/11/24/finished-reading-the.html",
 				"tags": ["books"]
 			},
@@ -418,16 +442,16 @@
 				"id": "http://permanganate.micro.blog/2022/11/19/wreck-of-the.html",
 				
 				"content_html": "<p>Wreck of the Peter Iredale&hellip; seems smaller than the last time I visited</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Wreck of the Peter Iredale... seems smaller than the last time I visited\n\n<img src=\"uploads/2022/80b86f88a4.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
-				"date_published": "2022-11-19T21:32:14-08:00",
+				"content_text": "Wreck of the Peter Iredale... seems smaller than the last time I visited\n\n<img src=\"https://cdn.uploads.micro.blog/88918/2022/80b86f88a4.jpg\" width=\"600\" height=\"450\" alt=\"\">\n",
+				"date_published": "2022-11-19T22:32:14-07:00",
 				"url": "https://permanganate.micro.blog/2022/11/19/wreck-of-the.html"
 			},
 			{
 				"id": "http://permanganate.micro.blog/2022/11/01/my-ballot-has.html",
 				
 				"content_html": "<p>My ballot has been accepted and counted</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "My ballot has been accepted and counted\n\n<img src=\"uploads/2022/98c3a2709c.jpg\" width=\"300\" height=\"169\" alt=\"I voted (OREGON)\">\n",
-				"date_published": "2022-11-01T19:05:02-08:00",
+				"content_text": "My ballot has been accepted and counted\n\n<img src=\"https://cdn.uploads.micro.blog/88918/2022/98c3a2709c.jpg\" width=\"300\" height=\"169\" alt=\"I voted (OREGON)\">\n",
+				"date_published": "2022-11-01T20:05:02-07:00",
 				"url": "https://permanganate.micro.blog/2022/11/01/my-ballot-has.html"
 			}
 	]
